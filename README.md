@@ -87,7 +87,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Desenvolvido com paixão por **[Seu Nome]** 👋 Entre em contato!
+Desenvolvido por **[Diogo Sanchez]** 👋 Entre em contato!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://www.linkedin.com/in/sanchez-diogo/)
+[![GitHub](https://github.com/dsanchezsantos)
